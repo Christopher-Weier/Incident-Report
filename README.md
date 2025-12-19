@@ -2,9 +2,6 @@
 # 🔐 Security Incident Response Case Study  
 **Focus:** Web Application Security · Incident Response · Log Analysis
 
-> **Disclaimer**  
-> This case study is a **sanitized, educational example** based on a real-world security incident.  
-> All identifying details, organization names, dates, and sensitive metrics have been generalized to protect confidentiality.
 
 ---
 
